@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"name": "razors",
+			"path": "..\\..\\razors"
+		}
+	],
+	"settings": {}
+}
