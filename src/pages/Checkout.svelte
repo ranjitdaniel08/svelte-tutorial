@@ -3,7 +3,7 @@
   import { navigate, link } from "svelte-routing";
   import user from "../stores/user";
   import cart, { cartTotal } from "../stores/cart";
-  import submitOrder from "../strapi/submitOrder";
+  import submitOrder from "../strapi/submitOrder.js";
 
   var name = "";
   //stripe vars
